@@ -29,13 +29,10 @@
 
 ### 📊 GitHub Stats
 
-<h1 align="center">🚀 Developer Performance Dashboard</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Clean-success?style=flat-square&logo=codefactor" />
-  <img src="https://img.shields.io/badge/Tests-Passed-brightgreen?style=flat-square&logo=jest" />
-  <img src="https://img.shields.io/badge/Build-Stable-blue?style=flat-square&logo=github-actions" />
-  <img src="https://img.shields.io/badge/Commits-🔥-red?style=flat-square" />
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
