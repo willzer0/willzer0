@@ -1,23 +1,52 @@
-### Hi there 👋
+<!-- GitHub Profile README Template -->
 
-<!--
-**willzer0/willzer0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm William Goeyana</h1>
+<h3 align="center">A passionate Fullstack Dev from Manado</h3>
 
-Here are some ideas to get you started:
-Hello my name is William Goeyana
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Javascript
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with my partner Richard and Andreas
-- 💬 Ask me about coding and party
-- 📫 How to reach me: u can whatsapp me on 081915217271 this is my number
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i have panic attack 
--->
-#Github Statistik
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;I+love+coding+💻;Always+learning+something+new!" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 I’m currently learning **Back-End**
+- 🛠️ I’m working on **--**
+- 👯 I’m looking to collaborate on **--**
+- 📝 I regularly write articles on --
+- ⚡ Fun fact: I love workout and sleep.
+
+---
+
+### 🧰 Languages and Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,html,css,figma,git,github,react_native&theme=light" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=default" alt="stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=default" alt="streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=default" alt="top langs" />
+</p>
+
+---
+
+### 📫 How to reach me
+
+- Email: wgoeyana@gmail.com
+- LinkedIn: https://www.linkedin.com/in/william-goeyana-b69355256/
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="USERNAME" />
 </p>
