@@ -40,7 +40,7 @@
 ### 📫 How to reach me
 
 - Email: wgoeyana@gmail.com
-- LinkedIn: https://www.linkedin.com/in/william-goeyana-b69355256/
+- LinkedIn: https://www.linkedin.com/in/william-goeyana/
 - Portfolio: [yourwebsite.com](https://yourwebsite.com)
 
 ---
